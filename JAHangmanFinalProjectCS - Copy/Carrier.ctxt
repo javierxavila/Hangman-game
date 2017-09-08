@@ -1,5 +1,0 @@
-#BlueJ class context
-comment0.params=
-comment0.target=void\ countWords()
-comment0.text=\r\n\ method\ that\ gets\ the\ number\ of\ words\ in\ the\ list\r\n\ Pre\:\ None\r\n\ Parameters\:\ None\r\n\ Post\:\ None\r\n\ return\:\ None\r\n
-numComments=1
